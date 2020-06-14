@@ -7,6 +7,9 @@ import { Provider } from 'react-redux';
 import { firebase } from './firebase/firebase';
 import { login, logout } from './actions/user';
 
+// Import bootstrap css
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 const store = configureStore();
 
 const jsx = (
