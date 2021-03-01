@@ -32,7 +32,7 @@
     "react-three-fiber": "4.2.4",
     "redux": "4.0.1",
     "redux-thunk": "^2.3.0",
-    "three": "0.116.1",
+    "three": "0.125.0",
     "uuid": "^3.3.3",
     "webpack": "3.1.0"
   },
